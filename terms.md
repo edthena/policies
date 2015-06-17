@@ -285,7 +285,7 @@ shall have paid on User's behalf) all applicable fees, as described on the Site
 in connection with such for-fee services purchased by User. R3 Collaboratives
 reserves the right to change its prices and to institute new charges at any
 time, upon ten (10) days prior notice to User, which may be sent by email or
-posted on the Site.
+posted on the Site. All fees paid hereunder are non-refundable.
 
 12. TERMINATION
 ---------------
@@ -498,4 +498,4 @@ Attn: Adam Geller<br>
 940 Howard Street<br>
 San Francisco, CA 94103<br>
 
-Last updated: March 23, 2015
+Last updated: June 17, 2015

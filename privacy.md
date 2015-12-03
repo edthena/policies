@@ -4,8 +4,8 @@ R3 COLLABORATIVES PRIVACY STATEMENT
 R3 Collaboratives, Inc. ("R3 Collaboratives") knows that you care about how your
 personal information is used and shared, and we take your privacy seriously.
 Please read the following to learn more about our Privacy Statement. By using
-the Edthena.com website and any related products, services and/or features
-(collectively, the "Service") you acknowledge that you accept the practices and
+the "Edthena" mobile application ("App") and the website located at app.edthena.com
+("Website") (collectively, the "Service"), you acknowledge that you accept the practices and
 policies outlined in this Privacy Statement.
 
 WHAT DOES THIS PRIVACY STATEMENT COVER?
@@ -99,7 +99,7 @@ warranties, and the application of California state law.
 THIRD PARTY WEBSITES/SERVICES
 -----------------------------
 
-The Site may permit you to link to other websites on the Internet, and other
+The Site and/or App may permit you to link to other websites on the Internet, and other
 websites may contain links to the Service. These other websites are not under R3
 Collaboratives control, and such links do not constitute an endorsement by R3
 Collaboratives of those other websites or the services offered through them. The
@@ -113,7 +113,7 @@ CHANGES TO THIS PRIVACY STATEMENT
 R3 Collaboratives may amend this Privacy Statement from time to time. Use of
 information we collect now is subject to the Privacy Statement in effect at the
 time such information is used. If we make changes in the way we use Personal
-Information, we will notify you by posting an announcement on our website, or
+Information, we will notify you by posting an announcement on our Website, App, or
 via the Service, or sending you an email. Users are bound by any changes to the
 Privacy Statement when he or she uses the Service after such changes have been
 first posted.
@@ -125,7 +125,7 @@ If you have any questions or concerns regarding privacy, please send us a
 detailed message at <support@edthena.com>. We will make every effort to resolve
 your concerns.
 
-Effective Date: March 23, 2015
+Effective Date: December 2, 2015
 
 R3 Collaboratives (Edthena)<br>
 940 Howard Street<br>

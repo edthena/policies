@@ -1,9 +1,9 @@
-R3 COLLABORATIVES WEBSITE TERMS OF USE AND COPYRIGHT NOTICE
-===========================================================
+R3 COLLABORATIVES TERMS OF USE AND COPYRIGHT NOTICE
+===================================================
 
 The following terms and conditions (the "Agreement") govern all use of the
-Edthena.com website (the "Site") and the software and services available on or
-at the Site (taken together with the Site, the "Service"). The Service is owned
+"Edthena" mobile application ("App") and the website located at app.edthena.com
+("Site") (collectively, the "Service"). The Service is owned
 and operated by R3 Collaboratives, Inc. ("R3 Collaboratives"). The Service is
 offered subject to your (the "User's") acceptance without modification of all of
 the terms and conditions contained herein and all other operating rules,
@@ -29,7 +29,7 @@ database or content, at any time. R3 Collaboratives may also impose limits on
 certain features and services or restrict User's access to parts or all of the
 Services without notice or liability. R3 Collaboratives reserves the right, at
 its discretion, to modify this Agreement at any time by posting a notice on the
-Site or by sending User a notice via email or postal mail. User shall be
+Site, or in the App, or by sending User a notice via email or postal mail. User shall be
 responsible for reviewing and becoming familiar with any such modifications. Use
 of the Service by User following such notification constitutes User's acceptance
 of the terms and conditions of this Agreement as modified.
@@ -46,21 +46,21 @@ limitation, modems, hardware, software, and long distance or local telephone
 service. User shall be responsible for ensuring that such equipment or ancillary
 services are compatible with the Service.
 
-2. SITE CONTENT
----------------
+2. SERVICE CONTENT
+------------------
 
 User agrees that all content and materials (collectively, "Content") delivered
-via the Service or otherwise made available by R3 Collaboratives at the Site are
+via the Service or otherwise made available by R3 Collaboratives at the Site or in the App are
 protected by copyrights, trademarks, service marks, patents, trade secrets or
 other proprietary rights and laws. Except as expressly authorized by R3
 Collaboratives in writing, User agrees not to sell, license, rent, modify,
 distribute, copy, reproduce, transmit, publicly display, publicly perform,
 publish, adapt, edit or create derivative works from such materials or content.
-However, User may print or download a reasonable number of copies of the
-materials or content at this Site for User's own informational purposes;
+However, User may print or download a reasonable number of copies of such
+materials or content for User's own informational purposes;
 _provided_, that User retain all copyright and other proprietary notices
 contained therein. Reproducing, copying or distributing any content, materials
-or design elements on the Site for any other purpose is strictly prohibited
+or design elements on the Site or in the App for any other purpose is strictly prohibited
 without the express prior written permission of R3 Collaboratives.
 
 Use of the content or materials for any purpose not expressly permitted in this
@@ -69,7 +69,7 @@ Agreement is prohibited. Any rights not expressly granted herein are reserved.
 3. USER CONTENT
 ---------------
 
-The Sites and Service permit the submission of videos, images, recordings or
+The Service permits the submission of videos, images, recordings or
 other communications (such as commentary on other users content) submitted by
 User ("User Submission(s)") and the hosting, sharing, and/or publishing of such
 User Submission(s) (which may be subject to fees).
@@ -83,12 +83,12 @@ representatives and affiliates, from any and all liability arising out of or
 relating to User Submission(s) or any part thereof.
 
 By submitting the User Submission(s) to R3 Collaboratives, or displaying,
-publishing, or otherwise posting any content on or through the Sites or the
+publishing, or otherwise posting any content on or through the
 Service, User hereby does and shall grant R3 Collaboratives a worldwide,
 non-exclusive, perpetual, royalty-free, fully paid, sublicensable and
 transferable license to reproduce, distribute, display, and perform the User
 Submission(s) in accordance with R3 Collaboratives' User Submission policies and
-User's Site settings. For clarity, the foregoing license grant to R3
+User's Service settings. For clarity, the foregoing license grant to R3
 Collaboratives does not affect User's other ownership or license rights in your
 User Submission(s), including the right to grant additional licenses to the
 material in User's User Submission(s). User Submission(s) may be withdrawn by
@@ -99,17 +99,17 @@ In connection with User's User Submission(s), User affirms, represents, and
 warrants that: (i) User owns or has the necessary licenses, rights, consents,
 and permissions to use and authorize R3 Collaboratives to use each and every
 image and sound contained in each such User Submission and to enable inclusion
-and use of such User Submission(s) in the manner contemplated by the Sites, the
+and use of such User Submission(s) in the manner contemplated by the Site, App, the
 Service and this Agreement; (ii) User has the written consent, release, and/or
 permission of each and every identifiable individual person in the User
 Submission to use the name or likeness of each and every such identifiable
 individual person to enable inclusion and use of the User Submission(s) in the
-manner contemplated by the Sites, the Service and this Agreement; and (iii) the
-posting of your User Submission on or through the Sites or the Service or
+manner contemplated by the Site, the App, the Service and this Agreement; and (iii) the
+posting of your User Submission on or through the Site, the App or the Service, or
 otherwise does not violate the privacy rights, publicity rights, intellectual
 property rights, contract rights, or any other rights of any person or entity.
 User agrees to pay all royalties, fees, and other monies owing any person or
-entity by reason of any content posted by User to or through the Sites or the
+entity by reason of any content posted by User to or through the Site, the App or the
 Service.
 
 User further agrees that User will not: (i) publish falsehoods or
@@ -222,8 +222,8 @@ information.
 7. THIRD PARTY SITES
 --------------------
 
-The Site may permit User to link to other websites or resources on the Internet,
-and other websites or resources may contain links to the Site. These other
+The Site and/or App may permit User to link to other websites or resources on the Internet,
+and other websites or resources may contain links to the Site and/or App. These other
 websites are not under R3 Collaboratives' control, and User acknowledges that
 R3 Collaboratives is not responsible or liable for the content, functions,
 accuracy, legality, appropriateness or any other aspect of such websites or
@@ -248,7 +248,7 @@ Service; (ii) User's access to any part of the Service, (iii) User's Content, or
 9. WARRANTY DISCLAIMER
 ----------------------
 
-THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE SITE AND ANY SOFTWARE) IS
+THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE SITE AND APP AND ANY SOFTWARE) IS
 PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR
 IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. R3 COLLABORATIVES MAKE NO
@@ -272,7 +272,7 @@ CONTENT OR INFORMATION POSTED, EMAILED, TRANSMITTED OR OTHERWISE MADE AVAILABLE
 AT OR THROUGH THE SERVICE, OR (IV) FOR ANY DIRECT DAMAGES IN EXCESS OF (IN THE
 AGGREGATE) $500.00 (U.S.). IN ADDITION, R3 COLLABORATIVES SHALL NOT BE LIABLE
 FOR ANY LOSS OR LIABILITY RESULTING, DIRECTLY OR INDIRECTLY, FROM USER'S
-INABILITY TO ACCESS OR OTHERWISE USE THE SITE (INCLUDING, WITHOUT LIMITATION,
+INABILITY TO ACCESS OR OTHERWISE USE THE SITE OR APP (INCLUDING, WITHOUT LIMITATION,
 ANY DELAYS OR INTERRUPTIONS DUE TO ELECTRONIC OR MECHANICAL EQUIPMENT FAILURES,
 DENIAL OF SERVICE ATTACKS, PROCESSING FAILURES, TELECOMMUNICATIONS OR INTERNET
 PROBLEMS OR UTILITY FAILURES).
@@ -301,7 +301,54 @@ by their nature should survive termination shall survive termination, including,
 without limitation, ownership provisions, warranty disclaimers and limitations
 of liability.
 
-13. EXPORT AND TRADE CONTROLS
+13. APPLE DEVICE TERMS
+----------------------
+
+In the event the Service is available via an App in connection with a device
+provided by Apple, Inc. ("Apple"), the following shall apply:
+
+Both You and R3 Collaboratives acknowledge that this Agreement is concluded
+between You and R3 Collaboratives only, and not with Apple, and that Apple is
+not responsible for the Application or any content available thru the
+Application;
+
+You will only use the Application in connection with an Apple device that You
+own or control;
+
+You acknowledge and agree that Apple has no obligation whatsoever to furnish any
+maintenance and support services with respect to the Application;
+
+In the event of any failure of the Application to conform to any applicable
+warranty, including those implied by law, You may notify Apple of such failure;
+upon notification, Apple's sole warranty obligation to You will be to refund to
+You the purchase price, if any, of the Application;
+
+You acknowledge and agree that R3 Collaboratives, and not Apple, is responsible
+for addressing any claims You or any third party may have in relation to the
+Application;
+
+You acknowledge and agree that, in the event of any third party claim that the
+Application or Your possession and use of the Application infringes that third
+party's intellectual property rights, R3 Collaboratives, and not Apple, will be
+responsible for the investigation, defense, settlement and discharge of any such
+infringement claim;
+
+You represent and warrant that You are not located in a country subject to a
+U.S. Government embargo, or that has been designated by the U.S. Government as a
+"terrorist supporting" country, and that You are not listed on any U.S.
+Government list of prohibited or restricted parties;
+
+Both You and R3 Collaboratives acknowledge and agree that, in Your use of the
+Application, You will comply with any applicable third party terms of agreement,
+which may affect or be affected by such use; and
+
+Both You and R3 Collaboratives acknowledge and agree that Apple and Apple's
+subsidiaries are third party beneficiaries of this Agreement, and that upon Your
+acceptance of this Agreement, Apple will have the right (and will be deemed to
+have accepted the right) to enforce this Agreement against You as the third
+party beneficiary hereof.
+
+14. EXPORT AND TRADE CONTROLS
 -----------------------------
 
 User agrees not to import, export, re-export, or transfer, directly or
@@ -309,14 +356,14 @@ indirectly, any part of the Service or any information provided on or pursuant
 to the Service except in full compliance with all United States, foreign and
 other applicable laws and regulations.
 
-14. PRIVACY
+15. PRIVACY
 -----------
 
 R3 Collaboratives' current privacy policy is available at
 <https://github.com/edthena/policies/blob/master/privacy.md>
 (the "Privacy Policy"), which is incorporated by this reference.
 
-15. MEMBER DISPUTES
+16. MEMBER DISPUTES
 -------------------
 
 User is solely responsible for your interactions with other Service users. R3
@@ -332,10 +379,10 @@ creditor does not know or suspect to exist in his favor at the time of executing
 the release, which if known by him must have materially affected his settlement
 with the debtor."
 
-16. COPYRIGHT
+17. COPYRIGHT
 -------------
 
-All content included on the Site, such as text, graphics, logos, button icons,
+All content included on the Site and/or App, such as text, graphics, logos, button icons,
 images, audio clips, digital downloads, data compilations, and software, is the
 property of R3 Collaboratives or its content suppliers and is protected by
 United States and international copyright laws. The compilation of all content
@@ -344,10 +391,10 @@ U.S. and international copyright laws. All software used on (or provided
 through) the Site is the property of R3 Collaboratives or its software suppliers
 and is protected by United States and international copyright laws.
 
-17. ELECTRONIC COMMUNICATIONS
+18. ELECTRONIC COMMUNICATIONS
 -----------------------------
 
-When User visits the Site or sends e-mails to R3 Collaboratives, User is
+When User visits the Site or App or sends e-mails to R3 Collaboratives, User is
 communicating with R3 Collaboratives electronically. User hereby consents to
 receive communications from R3 Collaboratives electronically. R3 Collaboratives
 will communicate with User by e-mail or by posting notices on the Site. User
@@ -355,7 +402,7 @@ agrees that all agreements, notices, disclosures and other communications that
 R3 Collaboratives provides to User electronically satisfy any legal requirements
 that such communications be in writing.
 
-18. MISCELLANEOUS
+19. MISCELLANEOUS
 -----------------
 
 The failure of either party to exercise in any respect any right provided for
@@ -396,7 +443,7 @@ joint venture, or employment is created as a result of this Agreement and User
 does not have any authority of any kind to bind R3 Collaboratives in any respect
 whatsoever.
 
-19. DIGITAL MILLENNIUM COPYRIGHT ACT NOTICE
+20. DIGITAL MILLENNIUM COPYRIGHT ACT NOTICE
 -------------------------------------------
 
 R3 Collaboratives has adopted the following general policy toward copyright
@@ -498,4 +545,4 @@ Attn: Adam Geller<br>
 940 Howard Street<br>
 San Francisco, CA 94103<br>
 
-Last updated: June 17, 2015
+Last updated: December 2, 2015

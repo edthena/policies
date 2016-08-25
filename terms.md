@@ -417,7 +417,7 @@ is greater.
 
 ## 10. FEES AND PAYMENT
 
-__11.1 Fees.__ Some features of the Service may require payment of fees.
+__10.1 Fees.__ Some features of the Service may require payment of fees.
 User shall pay (or shall have paid on User's behalf) all applicable fees,
 as described on the Site in connection with such for-fee services purchased
 by User. R3 Collaboratives reserves the right to change its prices and to
@@ -425,7 +425,7 @@ institute new charges at any time, upon ninety (90) days’ prior notice to
 User, which may be sent by email or posted on the Site. All fees paid hereunder
 are non-refundable.
 
-__11.2 Payment Information.__ All information that you provide in connection
+__10.2 Payment Information.__ All information that you provide in connection
 with a purchase or transaction or other monetary transaction interaction with
 the Service must be accurate, complete, and current. You agree to pay all
 charges incurred by users of your credit card, debit card, or other payment
@@ -434,7 +434,7 @@ transaction interaction with the Service at the prices in effect when such
 charges are incurred. You will pay any applicable taxes, if any, relating to
 any such purchases, transactions or other monetary transaction interactions.
 
-__11.3 California Residents.__ The provider of the services is set forth
+__10.3 California Residents.__ The provider of the services is set forth
 herein. If you are a California resident, in accordance with Cal. Civ. Code
 §1789.3, you may report complaints to the Complaint Assistance Unit of
 the Division of Consumer Services of the California Department of Consumer

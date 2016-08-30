@@ -276,13 +276,13 @@ responsible for any third party links which may be provided in User Submissions
 by our Users. We encourage you to learn about the privacy practices of any
 third party website or service before providing them with personal information.
 
-### 5. Our Security and Data Storage Practices R3 Collaboratives cares about
-the security of your information and uses commercially reasonable physical,
-administrative, and technological safeguards to preserve the integrity and
-security of all information we collect. In the event that any information under
-our control is compromised as a result of a breach of security, we will take
-reasonable steps to investigate the situation and where appropriate, notify
-those Users whose information may have been compromised and take other steps,
+### 5. Our Security and Data Storage Practices 
+R3 Collaboratives cares about the security of your information and uses commercially 
+reasonable physical, administrative, and technological safeguards to preserve the 
+integrity and security of all information we collect. In the event that any 
+information under our control is compromised as a result of a breach of security, 
+we will take reasonable steps to investigate the situation and where appropriate, 
+notify those Users whose information may have been compromised and take other steps,
 in accordance with any applicable laws and regulations.
 
 Your information collected through the Service may be stored and processed

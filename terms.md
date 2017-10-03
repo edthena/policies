@@ -884,7 +884,7 @@ Claimed Infringement at the following address:
 __Designated Agent to Receive Notification of Claimed Infringement__:<br>
 R3 Collaboratives (Edthena) DMCA Claims<br>
 Attn: Adam Geller<br>
-940 Howard Street<br>
+95 Third Street Fl 2<br>
 San Francisco, CA 94103<br>
 
 Last updated: Effective Date: August 23, 2016.

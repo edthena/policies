@@ -171,7 +171,8 @@ settings.
 __Please note that although we may permit third party advertising partners to
 collect information on our Edthena website for the purpose of sending targeted
 advertisements, we do not allow third party advertising networks to collect
-information about students or teachers who are logged into our Service.__
+information about students or teachers who are logged into our Service for the
+purpose of sending targeted advertisements.__
 
 ### 2. How We Use and Share Your Personal Information
 
@@ -207,7 +208,9 @@ the purpose of carrying out their work for us, which may include business
 development, software design, hosting, payments, accounting, and other similar
 services. Personal information will be shared with these third parties as
 reasonably needed to perform their services to us, and under reasonable
-confidentiality terms.
+confidentiality terms. Vendors and service providers who have access to 
+Student Data, if any, shall be subject to privacy and confidentiality provisions
+no less protective than those provided herein.
 
 C. We may share information with other companies owned by or under common
 ownership with R3 Collaboratives. These companies will use your personal
@@ -229,16 +232,16 @@ security or integrity of our Service; and/or (iv) to exercise or protect the
 rights, property, or safety of R3 Collaboratives, our employees, our Users, or
 others.
 
-F. If R3 Collaboratives or some or all of its assets were acquired or otherwise
-transferred to a third party in the course of a company transaction, such as
-a merger, sale of company assets or shares, reorganization, financing, change
-of control, bankruptcy or other corporate event, the personal information of
-our Users may be transferred to or acquired by a third party, but only if such
-third party agrees to be subject to the same commitments set forth in this
-Privacy Policy with respect to User personal information. We will use our best
-efforts to provide you with reasonable notice and an opportunity to opt-out of
-the transfer of your personal information by terminating your account before
-the transfer occurs.
+F. If R3 Collaboratives or some or all of its assets were acquired or otherwise 
+transferred to a third party in the course of a company transaction, such as 
+a merger, sale of company assets or shares, reorganization, financing, change of 
+control, bankruptcy or other corporate event, the personal information of our Users 
+may be transferred to or acquired by a third party. If the transaction involves the 
+transfer of Student Data or User Submissions to a third party, we will require the 
+third party to agree to be subject to the same commitments set forth in this Privacy 
+Policy  or we will provide you with notice and an opportunity to opt-out of the 
+transfer of Student Data and User Submissions by terminating your account 
+before the transfer occurs.
 
 ### 3. Communications
 
@@ -279,7 +282,12 @@ third party website or service before providing them with personal information.
 ### 5. Our Security and Data Storage Practices
 R3 Collaboratives cares about the security of your information and uses commercially
 reasonable physical, administrative, and technological safeguards to preserve the
-integrity and security of all information we collect. In the event that any
+integrity and security of all information we collect. These safeguards can include, 
+but are not limited to, password protection, need-based access, firewall and encryption, 
+physical security controls for our office and company locations, employee training, 
+and other such mechanisms. Our security team periodically reviews our information 
+storage and security practices and updates our policies and practices as needed to 
+address changing technologies and known threats. In the event that any 
 information under our control is compromised as a result of a breach of security,
 we will take reasonable steps to investigate the situation and where appropriate,
 notify those Users whose information may have been compromised and take other steps,
@@ -351,7 +359,10 @@ the Family Educational Rights and Privacy Act (FERPA) and applicable state
 laws, and by other state, federal and international laws relating to the
 collection and use of student data. We consider the information of student
 records to be highly confidential, and we utilize this data only to provide our
-Service and as permitted in this Privacy Policy and Terms of Use.
+Service and as permitted in this Privacy Policy and Terms of Use. We do not engage 
+in targeted advertising based on information that we collect from students 
+through the Service and we do not use collected information to amass student 
+profiles except in furtherance of an educational purpose or as requested by the user. 
 
 Edthena Users are solely responsible for assuring compliance with FERPA, COPPA
 and other privacy laws which may be applicable to the personal information of
@@ -371,10 +382,15 @@ accept the changes, you may opt-out by deleting your account before the changes
 take effect. Continuing to use our Services after the effective date of the
 revised Privacy Policy means that you consent to the changes.
 
+Notwithstanding the foregoing, we will not make any material changes to this 
+Privacy Policy that relate to the collection or use of Student Data without first 
+giving notice to the School and providing a choice before Student Data is used in 
+a materially different manner than was disclosed when the information was collected.
+
 ### 9. Contact Us
 
 We welcome your feedback. If you have any comments or concerns about this
 privacy policy or would like to contact us for any reason, you may reach us at
 <privacy@edthena.com>.
 
-Effective Date: August 23, 2016.
+Effective Date: January 3, 2018.

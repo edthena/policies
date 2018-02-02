@@ -384,7 +384,7 @@ revised Privacy Policy means that you consent to the changes.
 
 Notwithstanding the foregoing, we will not make any material changes to this 
 Privacy Policy that relate to the collection or use of Student Data without first 
-giving notice to the School and providing a choice before Student Data is used in 
+giving notice to the School, via email or another notification method of our choosing, and providing a choice before Student Data is used in 
 a materially different manner than was disclosed when the information was collected.
 
 ### 9. Contact Us
@@ -393,4 +393,4 @@ We welcome your feedback. If you have any comments or concerns about this
 privacy policy or would like to contact us for any reason, you may reach us at
 <privacy@edthena.com>.
 
-Effective Date: January 3, 2018.
+Effective Date: February 2, 2018.

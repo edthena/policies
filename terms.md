@@ -887,4 +887,5 @@ Attn: Adam Geller<br>
 95 Third Street Fl 2<br>
 San Francisco, CA 94103<br>
 
-Last updated: June 1, 2018
+Effective Date: August 23, 2016
+Last updated: June 1, 2018 (spelling, address, or other nonmaterial updates)

@@ -2,24 +2,31 @@
 
 Welcome to Edthena! The following terms and conditions (the "__Agreement__")
 govern all use of the "Edthena" mobile (including any tablet or similar
-devices) application or any future mobile applications ("__App__"), the website
-located at app.edthena.com or any future websites or any other websites we
-own or operate ("__Site__"), our online and/or mobile services and software
-provided on or in connection with the services ("__Software__") (collectively,
-the "__Service__"). The Service is owned and operated by R3 Collaboratives,
-Inc. ("__R3 Collaboratives__").
+devices) application or any future mobile applications ("__App__"), the
+website located at app.edthena.com or any future websites or any other
+websites we own or operate ("__Site__"), our online and/or mobile services
+and software provided on or in connection with the services ("__Software__")
+(collectively, the "Service"). The Service is owned and operated by R3
+Collaboratives, Inc. ("__R3 Collaboratives__"). Users of the Service include
+without limitation: (i) schools, school districts, universities and other
+organizations ("__Subscribers__") who make the Service available to their
+users; (ii) a Subscriber’s employees, consultants, contractors, customers,
+agents and any other User accessing and using the Service on behalf of a
+Subscriber and (iii) any other visitors, users, and others who access the
+Service (collectively, "__Users__"). This Agreement applies to all Users.
 
 The Service is offered subject to your acceptance, without modification, of all
 of this Agreement and all other operating rules, policies and procedures that
 may be published from time to time on the Site by R3 Collaboratives.
 
-BY USING OR ACCESSING ANY PART OF THE SERVICE, OR BY CLICKING A BUTTON OR
-CHECKING A BOX MARKED “I AGREE” (OR SOMETHING SIMILAR), YOU (THE "__USER__"
-OR “__YOU__”) SIGNIFY THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND
-BY ALL OF THE TERMS AND CONDITIONS CONTAINED HEREIN; AND TO THE COLLECTION
-AND USE OF YOUR INFORMATION AS SET FORTH IN OUR PRIVACY POLICY, LOCATED AT
-<https://www.edthena.com/privacy>, WHETHER OR NOT YOU ARE A REGISTERED USER OF
-THE SERVICE. IF YOU NOT AGREE, DO NOT USE OR ACCESS THE SERVICE.
+BY USING OR ACCESSING ANY PART OF THE SERVICE, BY CLICKING A BUTTON OR CHECKING
+A BOX MARKED “I AGREE” (OR SOMETHING SIMILAR), OR EXECUTING AN ORDER
+(DEFINED BELOW), YOU (THE "__USER__" OR "__YOU__") SIGNIFY THAT YOU HAVE READ,
+UNDERSTOOD AND AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS CONTAINED
+HEREIN; AND TO THE COLLECTION AND USE OF YOUR INFORMATION AS SET FORTH IN OUR
+PRIVACY POLICY, LOCATED AT <https://www.edthena.com/privacy>, WHETHER OR NOT
+YOU ARE A REGISTERED USER OF THE SERVICE. IF YOU NOT AGREE, DO NOT USE OR
+ACCESS THE SERVICE.
 
 __Please read this Agreement carefully to ensure that you understand each
 provision. This Agreement contains a mandatory individual arbitration and
@@ -51,7 +58,7 @@ __1.2 Limited License.__ Subject to the terms and conditions of this Agreement,
 you are hereby granted a non-exclusive, non-transferable, freely revocable
 license to use the Service solely for User's own personal use, and not for the
 use or benefit of any third party, and solely as permitted by the features of
-the Service. R3 Collaboratives may change, suspend or discontinue the Services,
+the Service. R3 Collaboratives may change, suspend or discontinue the Service,
 including the availability of any feature, database or content, at any time
 in its sole discretion. R3 Collaboratives may also impose limits on certain
 features and services or restrict User's access to parts or all of the Services
@@ -66,18 +73,24 @@ familiar with any such modifications. Use of the Service by User following such
 notification constitutes User's acceptance of the terms and conditions of this
 Agreement as modified.
 
-__1.4 User Accounts.__ Your account on the Service (your “__User
-Account__”) gives you access to the services and functionality that we
-may establish and maintain from time to time and in our sole discretion. We
-may maintain different types of User Accounts for different types of Users.
-If you open a User Account on behalf of a school, educational institution,
-organization, or other entity, then (i) “you” includes you and that entity,
-and (ii) you represent and warrant that you are an authorized representative of
-the entity with the authority to bind the entity to this Agreement, and that
-you agree to this Agreement on the entity’s behalf. By connecting to the
-Service with a third-party service, you give us permission to access and use
-your information from that service as permitted by that service, and to store
-your log-in credentials for that service.
+__1.4 User Accounts.__ Your account on the Service (your "__User Account__")
+gives you access to the Service and functionality that we may establish
+and maintain from time to time and in our sole discretion. We may maintain
+different types of User Accounts for different types of Users. If you open an
+account or place an Order on behalf of a Subscriber, organization, or other
+legal entity, then (i) “you” and “your” includes you, that Subscriber,
+and any and all authorized Users and (ii) you represent and warrant that you
+are an authorized representative of the Subscriber with the authority to
+bind the Subscriber to this Agreement, and that you agree to this Agreement
+on the Subscriber’s behalf. You further acknowledge and agree that if you
+are opening an account or otherwise using the Service as or on behalf of a
+Subscriber, your employees, consultants, contractors, customers, agents and
+any other User authorized to use the Service in connection with your or your
+Subscriber’s account must create their own accounts and must separately agree
+to be bound by this Agreement. By connecting to the Service with a third-party
+service, you give us permission to access and use your information from that
+service as permitted by that service, and to store your log-in credentials for
+that service.
 
 You may never use another User’s User Account without permission. When
 creating your User Account, you must provide accurate and complete information,
@@ -121,7 +134,7 @@ Collaboratives in writing, User agrees not to sell, license, rent, modify,
 distribute, copy, reproduce, transmit, publicly display, publicly perform,
 publish, adapt, edit or create derivative works from such Content. However,
 User may print or download a reasonable number of copies of such materials or
-content for User's own informational purposes; provided, that User retain all
+content for User's own informational purposes; provided, that User retain all
 copyright and other proprietary notices contained therein. Reproducing, copying
 or distributing any content, materials or design elements on the Service for
 any purpose not expressly permitted by this Agreement is strictly prohibited
@@ -159,7 +172,7 @@ accordance with your User settings.
 
 Except as necessary to exercise the rights and obligations of R3 Collaboratives
 expressly granted under this Agreement, User Submission(s) may be withdrawn
-by written request to <support@edthena.com> to delete content and terminate
+by written request to <support@edthena.com> to delete content and terminate
 User's account. Deletion requests for User Submissions provided under a license
 offered by an Educational Institution, employer, or other enterprise must be
 authorized by the enterprise account holder. We may not be able to delete
@@ -224,7 +237,7 @@ injury, emotional distress, death, disability, disfigurement, or physical or
 mental illness to you, to any other person, or to any animal; (viii) post
 User Submission(s) that may create a risk of any other loss or damage to any
 person or property; (ix) post User Submission(s) that contain any information
-or content that you know is not correct and current; or (x) post User
+or content that you know is not correct and current; or (x) post User
 Submission(s) that violate any school or other applicable policy, including
 those related to cheating or ethics.
 
@@ -236,28 +249,28 @@ remove any User Submission(s) at any time (with or without notice).
 
 ## 4. SOFTWARE
 
-With respect to any video management software that User is authorized by R3
-Collaboratives to download via the Service, R3 Collaboratives grants User
-a personal, nontransferable, nonsublicensable, nonexclusive license to use
-such software solely for compressing and uploading videos to User's website
-for non-commercial purposes. For avoidance of doubt, such software shall be
-considered “Software” hereunder. In addition to any other restrictions
-on the Service, User shall not, nor permit anyone else to, directly or
-indirectly: (i) copy, modify, or distribute the Software; (ii) reverse
-engineer, disassemble, decompile or otherwise attempt to discover the source
-code or structure, sequence and organization of all or any part of the
-Software (except that this restriction shall not apply to the limited extent
-restrictions on reverse engineering prohibited by applicable local law); (iii)
-rent, lease, or use the Software for timesharing or service bureau purposes, or
-otherwise use such software for any commercial purpose; (iv) remove, modify,
-or obscure any legends, trademarks, copyright notices or other proprietary
-rights notices contained on or in the Software; or (v) sell, resell, lease,
-license, sublicense, rent, distribute disclose or encumber the Software.
-Source code for parts of the Software may be available for use, modification
-and distribution under open source licenses, which, if any, can be found
-at <http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>. Nothing in this
-Agreement will be construed to limit any rights granted under such open source
-licenses (if any). This Agreement does not entitle User to any support,
+With respect to any video management software that User is authorized by
+R3 Collaboratives to download via the Service, R3 Collaboratives grants
+User a personal, nontransferable, nonsublicensable, nonexclusive license
+to use such software solely for compressing and uploading videos to User's
+website for non-commercial purposes. For avoidance of doubt, such software
+shall be considered “Software” hereunder. In addition to any other
+restrictions on the Service, User shall not, nor permit anyone else to,
+directly or indirectly: (i) copy, modify, or distribute the Software; (ii)
+reverse engineer, disassemble, decompile or otherwise attempt to discover
+the source code or structure, sequence and organization of all or any part
+of the Software (except that this restriction shall not apply to the limited
+extent restrictions on reverse engineering prohibited by applicable local
+law); (iii) rent, lease, or use the Software for timesharing or service
+bureau purposes, or otherwise use such software for any commercial purpose;
+(iv) remove, modify, or obscure any legends, trademarks, copyright notices or
+other proprietary rights notices contained on or in the Software; or (v) sell,
+resell, lease, license, sublicense, rent, distribute disclose or encumber the
+Software. Source code for parts of the Software may be available for use,
+modification and distribution under open source licenses, which, if any, can be
+found at <http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>. Nothing in
+this Agreement will be construed to limit any rights granted under such open
+source licenses (if any). This Agreement does not entitle User to any support,
 upgrades, patches, enhancements or fixes for the Software.
 
 ## 5. RESTRICTIONS
@@ -341,15 +354,13 @@ User is responsible for all of its activity in connection with the Service.
 User shall defend, indemnify, and hold harmless R3 Collaboratives, its
 affiliates, and each of its and its affiliates' employees, contractors,
 directors, suppliers and representatives from all liabilities, claims, and
-expenses, including reasonable attorneys' fees, that arise from (i) User's
-misuse of the Service; (ii) your User Submission(s) or any content that is
-submitted via your account (including another party’s access and use of
-the Service with your unique username, password or appropriate security
-code); (iii) otherwise from User's violation of this Agreement, including,
-without limitation, your breach of any of the representation and warranties
-above, or (iv) your willful misconduct. For avoidance of doubt, a User’s
-indemnification obligations do not extend to the actions of related or
-affiliated Users.
+expenses, including reasonable attorneys' fees, that arise from (i) User's use
+or misuse of the Service; (ii) your User Submission(s) or any content that is
+submitted via your account (including another party’s access and use of the
+Service with your unique username, password or appropriate security code);
+(iii) otherwise from User's violation of this Agreement, including, without
+limitation, your breach of any of the representation and warranties above, or
+(iv) your willful misconduct.
 
 ## 8. WARRANTY DISCLAIMER
 
@@ -420,10 +431,18 @@ is greater.
 __10.1 Fees.__ Some features of the Service may require payment of fees.
 User shall pay (or shall have paid on User's behalf) all applicable fees,
 as described on the Site in connection with such for-fee services purchased
-by User. R3 Collaboratives reserves the right to change its prices and to
-institute new charges at any time, upon ninety (90) days’ prior notice to
-User, which may be sent by email or posted on the Site. All fees paid hereunder
-are non-refundable.
+by User. If you are a Subscriber and have executed an Order with R3
+Collaboratives, you shall pay the applicable fees according to the payment
+terms set forth in the applicable Order. R3 Collaboratives reserves the right
+to change its prices and to institute new charges at any time, upon ninety
+(90) days’ prior notice to User, which may be sent by email or posted on
+the Site. All fees paid hereunder are non-refundable. An “Order” means R3
+Collaboratives’ approved ordering document or process describing the products
+and services you are ordering from R3 Collaboratives. As applicable, the Order
+will identify: (i) the Service, (ii) the number and type of Users, (iii) the
+Pilot and/or Service Term (collectively, the "__Term__"), and (iv) (for paid
+Orders) the amount or rate you will be charged, the billing and renewal terms,
+applicable currency, and form of payment.
 
 __10.2 Payment Information.__ All information that you provide in connection
 with a purchase or transaction or other monetary transaction interaction with
@@ -503,17 +522,16 @@ deemed to have accepted the right) to enforce this Agreement against You as the
 third party beneficiary hereof.
 
 __12.2 App from Google Play Store.__ The following applies to if you acquire
-the App from the Google Play Store (“__Google-Sourced Software__”): (i)
-you acknowledge that the Agreement is between you and R3 Collaboratives only,
-and not with Google, Inc. (“__Google__”); (ii) your use of Google-Sourced
-Software must comply with Google’s then-current Google Play Store Terms
-of Service; (iii) Google is only a provider of the Google Play Store where
-you obtained the Google-Sourced Software; (iv) R3 Collaboratives, and not
-Google, is solely responsible for its Google-Sourced Software; (v) Google has
-no obligation or liability to you with respect to Google-Sourced Software
-or the Agreement; and (vi) you acknowledge and agree that Google is a
-third-party beneficiary to the Agreement as it relates to R3 Collaboratives’
-Google-Sourced Software.
+the App from the Google Play Store ("__Google-Sourced Software__"): (i) you
+acknowledge that the Agreement is between you and R3 Collaboratives only, and
+not with Google, Inc. ("__Google__"); (ii) your use of Google-Sourced Software
+must comply with Google’s then-current Google Play Store Terms of Service;
+(iii) Google is only a provider of the Google Play Store where you obtained
+the Google-Sourced Software; (iv) R3 Collaboratives, and not Google, is solely
+responsible for its Google-Sourced Software; (v) Google has no obligation or
+liability to you with respect to Google-Sourced Software or the Agreement; and
+(vi) you acknowledge and agree that Google is a third-party beneficiary to the
+Agreement as it relates to R3 Collaboratives’ Google-Sourced Software.
 
 You acknowledge and agree that, in the event of any third party claim that
 the App or Your possession and use of the App infringes that third party's
@@ -548,12 +566,12 @@ incorporated herein by this reference.
 
 __14.2 Student Data.__ To the extent that our Service is used by a College,
 University, local education agency, teacher, or other educational institution
-(“Educational Institution”) (a) and its students as part of school
+("__Educational Institution__") (a) and its students as part of school
 curriculum (e.g., a teacher training program in a University, or (b) by
 teachers as part of a teachers improvement program, the Personal Information
 we collect through the Service may include personal information from
 “educational records” as defined by the Family Educational Rights and
-Privacy Act (“FERPA”), 20 U.S.C. § 1232(g) (“Student Data”).
+Privacy Act ("__FERPA__"), 20 U.S.C. § 1232(g) ("__Student Data__").
 
 __14.2 Confidentiality.__ R3 Collaboratives agrees to treat Student Data as
 confidential and not to share it with third parties other than as described in
@@ -574,9 +592,9 @@ authorize R3 Collaboratives to collect Student Data through the Service. To
 the extent that R3 Collaboratives collects Student Data, R3 Collaboratives and
 the Educational Institution, each agree to uphold their responsibilities under
 laws governing Personal Information and Student Data, including in the U.S. the
-Family Educational Rights and Privacy Act (“__FERPA__”), the Protection
+Family Educational Rights and Privacy Act ("__FERPA__"), the Protection
 of Pupil Rights Amendment (PPRA), and the Children’s Online Privacy and
-Protection Act (“__COPPA__”) and State laws, as applicable.
+Protection Act ("__COPPA__") and State laws, as applicable.
 
 __14.5. Personal Information of Non-Users, Which Could Include K12 Students.__
 Through the course of providing our Services, it is possible that our Users
@@ -594,7 +612,7 @@ rights to provide that information to R3 Collaboratives. We rely on each User
 to ensure that appropriate disclosures and consents are obtained, if necessary,
 to provide content contained in User Submissions to R3 Collaboratives.
 
-The Children’s Online Privacy and Protection Act (“COPPA”) requires that
+The Children’s Online Privacy and Protection Act ("COPPA") requires that
 online service providers obtain parental consent before collecting personal
 information from children under 13. R3 Collaboratives does not intentionally
 collect personal information from a child under 13. If you provide in User
@@ -887,5 +905,4 @@ Attn: Adam Geller<br>
 95 Third Street Fl 2<br>
 San Francisco, CA 94103<br>
 
-Effective Date: August 23, 2016
-Last updated: June 1, 2018 (spelling, address, or other nonmaterial updates)
+Effective Date: January 9, 2019

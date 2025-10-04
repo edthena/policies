@@ -552,4 +552,4 @@ We welcome your feedback. If you have any comments or concerns about this
 privacy policy or would like to contact us for any reason, you may reach us at
 privacy@edthena.com.
 
-Effective Date: October 6, 2025.
+Effective Date: October 8, 2025.

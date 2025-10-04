@@ -526,7 +526,7 @@ relating to Student Data provided to processed by R3 Collaborative by or on
 behalf of an Educational Institution, please direct your questions to your
 Educational Institution.
 
-### 9 Our Privacy Policy Will Change Over Time
+### 9. Our Privacy Policy Will Change Over Time
 
 R3 Collaboratives may amend this Privacy Statement from time to time. If we make
 any changes to this Policy, we will change the "effective date" below and will

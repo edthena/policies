@@ -89,9 +89,9 @@ is your responsibility to ensure that you have the appropriate rights and
 authority to upload and/or share User Content containing personal information of
 non-users, and that your use of the service (including your sharing of User
 Content with others) is appropriate for the type of personal information
-contained in your User Content. Please refer to the section called "Student
-Data" below to learn more about how we process Student Data on behalf of an
-Educational Institution.
+contained in your User Content. Please refer to the section called
+["Student Data"](#8-student-data) below to learn more about how we process
+Student Data on behalf of an Educational Institution.
 
 **E. Information Collected Through Technology.** We automatically collect
 certain types of usage information when you visit our website or use our
@@ -350,8 +350,8 @@ When our service is used by an Educational Institution, Users may upload User
 Content that includes videos, audio, images or other personal information
 relating to students in a classroom (Student Data), which could include personal
 information about children under 13. For information on how we process Student
-Data through the provision of the Service to Schools, see the "Student Data"
-section below.
+Data through the provision of the Service to Schools, see the
+["Student Data"](#8-student-data) section below.
 
 We do not collect or solicit personal information directly from children under
 13, unless and except when an Educational Institution configures the service to
@@ -387,8 +387,9 @@ personal information as needed to provide our Service, or to third parties with
 appropriate consent or authorization. For example, we share a child's personal
 information with third parties as authorized by the owner of the User Content or
 the Educational Institution. More information about how we may disclose personal
-information can be found in the "How We Use and Disclose Your Personal
-Information" section of our Privacy Policy.
+information can be found in the
+["How We Use and Disclose Your Personal Information"](#2-how-we-use-and-disclose-your-personal-information)
+section of our Privacy Policy.
 
 We also share information with our trusted third-party service providers who
 provide services to us or on our behalf, such as website hosting services,
@@ -415,7 +416,7 @@ described above, please contact us at privacy@edthena.com so that we may delete
 such information.
 
 For more information on how we collect and process Student Data, please see the
-"Student Data" section below.
+["Student Data"](#8-student-data) section below.
 
 ### 8. Student Data
 
@@ -486,8 +487,9 @@ contractual terms to protect such data. Our current list of service providers is
 available upon request.
 
 We may also disclose Student Data in connection with a business transaction or
-to support our legal rights and obligations, as described in the "How We Use and
-Share Disclose Your Personal Information" section of this Privacy Notice.
+to support our legal rights and obligations, as described in the
+["How We Use and Share Disclose Your Personal Information"](#2-how-we-use-and-disclose-your-personal-information)
+section of this Privacy Notice.
 
 #### How We Use De-Identified Data
 

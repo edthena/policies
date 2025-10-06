@@ -734,7 +734,7 @@ provide appropriate disclosures to students and parents regarding their use of
 service providers such as R3 Collaboratives and that they provide a copy of our
 Privacy Policy to parents and guardians.
 
-**14.7 Use of Student Data.** By submitting or otherwise providing us with
+**14.8 Use of Student Data.** By submitting or otherwise providing us with
 access to Student Data, you agree that R3 Collaboratives may use the Student
 Data solely: (a) to provide, maintain and support the Service, (b) to develop
 and improve the Service, to the extent permitted under student data privacy
@@ -760,7 +760,7 @@ their services to us. We and our employees, affiliates, service providers or
 agents involved in the handling, transmittal, and processing of Student Data
 will be required to maintain the confidentiality of such data.
 
-**14.8 User-Requested Third-Party Access.** R3 Collaboratives may provide Users
+**14.9 User-Requested Third-Party Access.** R3 Collaboratives may provide Users
 the ability to use and access third-party services through our Service, and to
 share data, including Student Data if applicable, with third-parties through our
 Service. If explicitly instructed by you, by the Educational Institution
@@ -772,7 +772,7 @@ Student Data, and that, as between us, you are solely responsible for the
 consequences of providing or transmitting data, including Student Data, to such
 third parties through our Service.
 
-**14.8 Data Retention and Deletion Requests.** You may request that we delete
+**14.10 Data Retention and Deletion Requests.** You may request that we delete
 your personal information in our possession at any time as set forth in our
 Privacy Policy. If your account is utilizing a license provided by an
 Educational Institution or enterprise, the licensee may be required to authorize
@@ -793,7 +793,7 @@ Educational Institution is responsible for removing Student Data which the
 institution no longer needs for an educational purpose through the Service
 itself, if applicable, or by submitting a deletion request.
 
-**14.9 Data Localization.** You acknowledge and agree that R3 Collaboratives
+**14.11 Data Localization.** You acknowledge and agree that R3 Collaboratives
 will store and process Personal Information in various data centers around the
 world, including in the U.S., and that your Personal Information may not be
 stored or processed only within the country in which it was collected unless and
@@ -802,7 +802,7 @@ teacher, you warrant and agree that you have obtained all necessary consents for
 R3 Collaboratives to process such Personal Information in the U.S. and elsewhere
 in the world.
 
-**14.10 Security, Access and Support; Data Breach Notification.** We have
+**14.12 Security, Access and Support; Data Breach Notification.** We have
 implemented commercially reasonable administrative, physical and technical
 safeguards designed to secure Personal Information, including Student Data, from
 unauthorized access, disclosure and use. In the event we have a reasonable, good

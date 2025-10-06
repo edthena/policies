@@ -375,15 +375,15 @@ collect personal information in a classroom setting. In such cases:
   Educational Institution customers provide a link to this Privacy Notice to all
   Parents.
 
-<u>Data Collected from Children</u>: The Educational Institution is in control
-of whether and how personal information may be collected from a child through
-the service in the context of capturing User Content. To the extent personal
+Data Collected from Children: The Educational Institution is in control of
+whether and how personal information may be collected from a child through the
+service in the context of capturing User Content. To the extent personal
 information is collected, it could include an audio or video recording or image
 of the child in a classroom setting, and any personal information that is
 disclosed verbally in such a recording, such as the child's name.
 
-<u>How We Disclose Children's Personal Information</u>: We disclose a child's
-personal information as needed to provide our Service, or to third parties with
+How We Disclose Children's Personal Information: We disclose a child's personal
+information as needed to provide our Service, or to third parties with
 appropriate consent or authorization. For example, we share a child's personal
 information with third parties as authorized by the owner of the User Content or
 the Educational Institution. More information about how we may disclose personal
@@ -398,10 +398,10 @@ providers is available upon request. As required by applicable data protection
 laws, we impose contractual limits on how these service providers can use the
 personal information they receive.
 
-<u>How to Access and Delete a Child's Personal information</u>: COPPA provides
-parents the right to review the personal information collected from a child,
-withdraw consent for further collection and request deletion of the child's
-personal information. If you are a parent of a student under 13 whose personal
+How to Access and Delete a Child's Personal information: COPPA provides parents
+the right to review the personal information collected from a child, withdraw
+consent for further collection and request deletion of the child's personal
+information. If you are a parent of a student under 13 whose personal
 information may have been collected through the Educational Institution's use of
 the Service, and you want to request to review or delete the Student's personal
 information, please contact your child's Educational Institution to submit your

@@ -1108,7 +1108,7 @@ Please contact R3 Collaboratives' Designated Agent to Receive Notification of
 Claimed Infringement at the following address:
 
 **Designated Agent to Receive Notification of Claimed Infringement:**<br> R3
-Collaboratives (Edthena) DMCA Claims<br> Attn: Adam Geller<br> 95 Third Street
-Fl 2<br> San Francisco, CA 94103
+Collaboratives (Edthena) DMCA Claims<br> Attn: Adam Geller<br> 1032 E Brandon
+Blvd #4362<br> Brandon, FL 33511
 
 Effective Date: October 8, 2025.

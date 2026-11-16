@@ -13,7 +13,7 @@ the Pledge, visit https://StudentPrivacyPledge.org.
 ## PRIVACY POLICY
 
 Edthena is provided by R3 Collaboratives, Inc. ("R3 Collaboratives"), located at
-95 Third Street Fl 2, San Francisco, CA 94103. This Privacy Policy applies to
+1032 E Brandon Blvd #4362, Brandon, FL 33511. This Privacy Policy applies to
 the Edthena website and mobile application(s) and online services
 ("**Edthena**"), including the VC3 by Edthena video coaching application and
 online services ("**VC3**"), the AI Coach by Edthena application and online
